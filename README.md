@@ -1,1 +1,1 @@
-# module1
+# Module 1 - AI Case Study
